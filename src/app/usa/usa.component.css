@@ -1,0 +1,9 @@
+.class1 {
+    background-color: black;  
+    color: white;
+    display:flex;
+    flex-direction: row;
+    width: 1000px;
+    height: 500px;
+    margin-left: 250px;
+}
